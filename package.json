@@ -9,14 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@syncfusion/ej2-base": "^25.1.35",
+    "@syncfusion/ej2-react-buttons": "^25.1.39",
+    "@syncfusion/ej2-react-pdfviewer": "^25.1.41",
+    "@wojtekmaj/react-hooks": "^1.20.0",
+    "classnames": "^2.5.1",
+    "fuse.js": "^7.0.0",
+    "lodash.debounce": "^4.0.8",
+    "next": "^14.2.3",
+    "pdfjs-dist": "^4.2.67",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.2"
+    "react-icons": "^5.2.0",
+    "react-intersection-observer": "^9.10.2",
+    "react-pdf": "^8.0.0"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
     "eslint": "^8",
-    "eslint-config-next": "14.2.2"
+    "eslint-config-next": "14.2.2",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
   }
 }
